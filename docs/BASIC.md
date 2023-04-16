@@ -49,7 +49,3 @@ test("segment to clock", () => {
 | `toThrow()`                 | 예외 발생 여부 테스트 `expect()` 에 검증할 함수를 함수로 한번 더 감싸주어야 함    |
 
 ![basic-jest-result](./basic.png)
-
-### ref
-
-[Daleseo](https://www.daleseo.com/jest-basic/)
